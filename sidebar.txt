@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gby:home|Door43 (gby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gby|d43-gby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gby/archive/master.zip|d43-gby.zip]]
+
+**Recent Changes**
+{{changes>ns = gby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gby|Ethnologue data]]
+
